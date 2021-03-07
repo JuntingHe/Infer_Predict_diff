@@ -14,4 +14,4 @@ Last but not least, I will talk about how an inference application and a predict
 #### Conclusion
 In conclusion, the point is that given some data if you want to know how the output changes as the input changes then it is inference, if you want to estimate the output based on some values of the inputs then it is prediction. Inference is more about interpretability while prediction is more about accuracy.
 
-![image.png](attachment:36b9dfe5-b70a-4f7c-973b-3951c8de3873.png)
+![title](infer_vs_predict.png)
